@@ -40,8 +40,7 @@ cd pox
 
 ```bash
 sudo mn --controller=remote,port=6633 --topo=single,3
-<img width="601" height="532" alt="topo" src="https://github.com/user-attachments/assets/797d76ee-5ca7-44fc-a4d6-710feaf752b3" />
-
+<img width="1202" height="877" alt="image" src="https://github.com/user-attachments/assets/5b03eb05-126d-40dc-befe-5843f19039c6" />
 
 
 ---
@@ -52,7 +51,8 @@ sudo mn --controller=remote,port=6633 --topo=single,3
 
 All hosts can communicate successfully.
 
-<img width="515" height="153" alt="initial" src="https://github.com/user-attachments/assets/f43c916c-8e08-4b53-8b3b-31380dda9a34" />
+<img width="872" height="259" alt="image" src="https://github.com/user-attachments/assets/12936042-fe8f-4e92-8e29-cf5caa803e70" />
+
 
 
 ✔ Result:
@@ -70,7 +70,8 @@ Command used:
 link s1 h1 down
 pingall
 ```
-<img width="595" height="200" alt="linkfail" src="https://github.com/user-attachments/assets/d0bb6487-72e4-4126-9445-4a04ed9a0a0f" />
+<img width="629" height="220" alt="image" src="https://github.com/user-attachments/assets/a4ff5397-77e4-464d-8c34-c5212cfac37f" />
+
 
 
 ✔ Observation:
